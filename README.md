@@ -1,2 +1,3 @@
 # exoCoursPHP
-Exercices à réaliser durant le cours!
+Exercices à réaliser durant le cours de PHP!
+
